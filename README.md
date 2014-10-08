@@ -2,7 +2,8 @@
 
 > [Yeoman](http://yeoman.io) generator
 
-
+还没开发完哦~
+现在已添加的工具有：livereload、文件压缩（CSS、JS、HTML）、jshint、测试（mocha） 
 ## Getting Started
 
 ### What is Yeoman?
