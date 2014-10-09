@@ -20,7 +20,11 @@
     "app"
   ],
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "web",
+    "app",
+    "tool",
+    "simple"
   ],
   "dependencies": {
     "yeoman-generator": "^0.17.0",
